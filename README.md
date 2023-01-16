@@ -1,11 +1,13 @@
+<a name="readme-top"></a>
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<div align="center">
 
-# MicroFlix
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-> This is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
-<!-- TABLE OF CONTENTS -->
+  <h3><b>Awesome books with ES6</b></h3>
 
+</div>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
