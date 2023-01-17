@@ -2783,7 +2783,7 @@ function convert(matrix, fromMap, fromUnit, toMap, toUnit) {
 }
 
 // NB: mutates parameters
-function normalizeValues(matrix, vals) {
+function normalizeValues (matrix, vals) {
   reverseUnits.reduce((previous, current) => {
     if (!isUndefined(vals[current])) {
       if (previous) {
