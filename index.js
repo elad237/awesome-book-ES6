@@ -1,5 +1,3 @@
-/* eslint-disable max-classes-per-file */
-
 import Store from './modules/StoreClass.js';
 import Book from './modules/BookClass.js';
 import { DateTime } from './modules/luxon.js';
